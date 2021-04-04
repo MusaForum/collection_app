@@ -1,0 +1,2 @@
+# collection_app
+Notionを用いた名大博物館のコレクションアプリ
